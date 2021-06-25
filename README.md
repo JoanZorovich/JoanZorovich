@@ -13,15 +13,16 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 ![image](https://user-images.githubusercontent.com/75386133/118583062-07c19980-b75a-11eb-94e7-29972a814723.png)
 ![image](https://user-images.githubusercontent.com/75386133/118583077-0f813e00-b75a-11eb-829e-f890a7937198.png)
 
-:earth_americas:Languages:
+- Languages:
 
-Spanish(Native)
-English(B2)
+:small_orange_diamond:Spanish(Native)
+
+:small_orange_diamond:English(B2)
 
 
 
 
-:eyes:How to reach me:
+- How to reach me:
 
 :email:joanzorovichg@gmail.com
 
