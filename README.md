@@ -1,5 +1,5 @@
 
-I´m a electronic engineer - fullstack developer. I love science and technology because through them I can know how the world works and I know that I can improve people's lives through technology.
+I´m a electronic engineer - fullstack developer. I love science and technology because through them I know how the world works and I know that I can improve people's lives through technology.
 
 Some technologies I enjoy working with include ReactJS, JavaScript, React.js - Redux and Node.js.
 
