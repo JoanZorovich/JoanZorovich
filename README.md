@@ -2,7 +2,7 @@
 
 I´m a electronic engineer - fullstack developer. I love :heart: science and technology because through them I know how the world works and I can improve people's lives :family: through technology.
 
-Some technologies I enjoy working with include ReactJS, JavaScript, React.js - Redux and Node.js.
+Some technologies I enjoy working with include ReactJS, JavaScript, React.js - Redux, PostgreSQL, Sequelize and Node.js.
 
 - Knowledge in:
 
