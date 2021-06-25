@@ -19,9 +19,11 @@ Spanish(Native)
 English(B2)
 
 
-How to reach me:
+:eyes:How to reach me:
 :email:joanzorovichg@gmail.com
+
 :ballot_box_with_check:https://www.linkedin.com/in/joan-catherine-zorovich
+
 :iphone: +57 302 277 83 77
 
 
