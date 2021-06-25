@@ -19,7 +19,10 @@ Spanish(Native)
 English(B2)
 
 
+
+
 :eyes:How to reach me:
+
 :email:joanzorovichg@gmail.com
 
 :ballot_box_with_check:https://www.linkedin.com/in/joan-catherine-zorovich
