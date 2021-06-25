@@ -1,3 +1,4 @@
+![Hola!!! Soy Joan Zorovich](https://user-images.githubusercontent.com/74875335/123440900-e9409080-d598-11eb-9952-e50ba3fd1fb4.gif)
 
 I´m a electronic engineer - fullstack developer. I love :heart: science and technology because through them I know how the world works and I can improve people's lives :family: through technology.
 
