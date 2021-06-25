@@ -3,7 +3,7 @@ I´m a electronic engineer - fullstack developer. I love :heart: science and tec
 
 Some technologies I enjoy working with include ReactJS, JavaScript, React.js - Redux and Node.js.
 
-🌱 Knowledge in:
+- Knowledge in:
 
 ![image](https://user-images.githubusercontent.com/75386133/118582414-e7450f80-b758-11eb-9b08-5509f392ca82.png)
 ![image](https://user-images.githubusercontent.com/75386133/118582992-ecef2500-b759-11eb-8335-f05ad2e84bd0.png)
