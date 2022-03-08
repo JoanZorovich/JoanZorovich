@@ -29,7 +29,7 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 
 :ballot_box_with_check:https://www.linkedin.com/in/joan-catherine-zorovich
 
-:iphone: +57 302 277 83 77
+:iphone: +57 302 277 83 76
 
 
 
