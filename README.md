@@ -1,4 +1,4 @@
-![h1 Hola!!! Soy Joan Zorovich h1](https://user-images.githubusercontent.com/74875335/195728560-a41f2759-862d-4173-9769-1dcb3ae27053.gif)
+![h1 Hola!!! Soy Joan Zorovich h1 (2)](https://user-images.githubusercontent.com/74875335/195730298-a9bdf26f-5d2c-48f3-9cde-c128dfc211e1.gif)
 
 I´m an electronic engineer - fullstack developer. I love :heart: science and technology because through them I know how the world works and I can improve people's lives :family: through technology.
 
